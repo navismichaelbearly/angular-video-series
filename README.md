@@ -1,6 +1,7 @@
 # AngularVideoSeries
 
-[Youtube Link](https://www.youtube.com/watch?v=9IufyZ0G0qg&list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV&index=1)
+[Angular Video Series Youtube Link](https://www.youtube.com/watch?v=9IufyZ0G0qg&list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV&index=1)
+[Angular Basic Flow](https://www.youtube.com/watch?v=FzITHZTpdb0)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
